@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-        Console.WriteLine("Firs Commit");
+        Console.WriteLine("Test second commit");
     }
 }
 
